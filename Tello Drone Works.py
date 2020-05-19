@@ -4,7 +4,8 @@ from time import sleep
 commands=(
     'takeoff','land','forward 20','back 20','left 20',
     'right 20','up 20','down 20','cw 360','ccw 360',
-    'flip l','flip r','flip f','flip b','speed 20'
+    'flip l','flip r','flip f','flip b','flip lb',
+    'flip rb','flip lf','flip rf','speed 20'
    )
 
 host = ''
